@@ -1,13 +1,11 @@
 ---
 layout: post
-title:      "formatted like this "
-date:       2020-08-29 01:02:00 +0000
+title:      "formatted like this **Why Learn To Code?**"
+date:       2020-08-28 21:02:01 -0400
 permalink:  formatted_like_this
 ---
 
-Why Learn To Code?
 
-# formatted like this 
 My first blog post is asking the question, "why am I learning to code?". More specifcally asking “Why did you decide to study Software Engineering?". And its a great question because its a LARGE undertaking. I never thought it would be easy but I never realized how hard. My first week was kind of a breeze but reality has hit very hard. Once you punch and then the first punch comes back, how do you motivate yourself to drive through to keep going. And thats what this question is asking.
 
 My reason for starting is simple; I want more. I have worked every job under the sun. Both from slary 9-5 jobs, odd jobs, serving jobs, and jobs whenever I can get them. Nothing has hit where I wanted. I keep working for a boss. Good ones and bad ones. Bosses who loved my hard work and bosses who didnt care. And they have been okay but I always want to reach the next level. I have a 4 year degree that counts for nothing half the time. Or I dont have enough experience. Its frustrating and I haven't done much. Just enough to get by. With coding, I say enough is enough. I want to learn this skill. I want more.
