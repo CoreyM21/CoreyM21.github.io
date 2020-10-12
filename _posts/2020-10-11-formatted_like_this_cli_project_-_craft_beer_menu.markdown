@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "formatted like this **CLI Project - Craft Beer Menu**"
-date:       2020-10-11 22:07:50 +0000
+title:      "**CLI Project - Craft Beer Menu**"
+date:       2020-10-11 18:07:51 -0400
 permalink:  formatted_like_this_cli_project_-_craft_beer_menu
 ---
 
