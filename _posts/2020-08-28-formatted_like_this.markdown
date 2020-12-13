@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "**Why Learn To Code?**"
+title:      "Why Learn To Code?"
 date:       2020-08-28 21:02:01 -0400
 permalink:  formatted_like_this
 ---
