@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra and Buidling Something Useful"
-date:       2020-12-13 21:08:54 +0000
+date:       2020-12-13 16:08:55 -0500
 permalink:  sinatra_and_buidling_something_useful
 ---
 
